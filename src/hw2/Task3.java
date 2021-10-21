@@ -3,10 +3,6 @@ package hw2;
 import java.util.HashMap;
 import java.util.Map;
 
-//Example 1:
-//Input: moves = "UD"
-//Output: true
-
 public class Task3 {
     public static void main(String[] args) {
         String mov="UDLR";

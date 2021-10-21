@@ -4,10 +4,6 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-//Example 1:
-//Input: jewels = "aA", stones = "aAAbbbb"
-//Output: 3
-
 class Task1 {
     public static int numJewelsInStones(String jewels, String stones) {
         int answer = 0;
